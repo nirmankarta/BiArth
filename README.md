@@ -3,4 +3,4 @@ Binary Arithmetic Calculator, developed in December 2012
 
 It performs binary calculations in Turbo C++ 3.0 based 16bit application. This application has Metro style menu.
 
-![alt tag](http://nirmankarta.com/data/img/BiArth1.jpg)
+![BiArth Screenshot](http://nirmankarta.com/data/img/BiArth1.jpg)
